@@ -1,0 +1,2 @@
+# Snake-game
+ Snake game is a classic game built using Html,CSS,JS. This game features classic Snake gameplay, score tracking, a game over screen,and a responsiive design for mobile and desktop devices. To PLay use the arrow keys to control the snake, eat the food pellets to grow the snake, and avoid hittting the walls or the snake's own tail. I plan to update the game with new features in the future. If you want to contribute to the game,feel free to submit a pull request. This game is released under the MIT license.
